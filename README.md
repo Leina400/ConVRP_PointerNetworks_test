@@ -3,5 +3,7 @@ Exploration of a Pointer Networks-based approach combined with an Actor-Critic m
 
 This is exploratory work conducted in early 2025, aiming to experiment with deep learning models and a reinforcement learning approach. The results and methodology are preliminary and require further validation.
 
+You can find in this repository my project report, including the results, challenges, state-of-the-art review, and more.
+
 ### How to run  :
 `exemple : python trainer.py --task=vrp --nodes=10 --train-size=512 --valid-size=64 --batch_size=64`
